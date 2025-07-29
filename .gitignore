@@ -1,4 +1,5 @@
 .conda_env
 .DS_Store
 data_repo/
-
+*/day1_ztf_alert_20240728_min.json
+*/output*
