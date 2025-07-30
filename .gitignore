@@ -3,3 +3,6 @@
 data_repo/
 */day1_ztf_alert_20240728_min.json
 */output*
+*.tar*
+day3_grbs/20210116_subset/
+day3_grbs/bonus_exercise/
