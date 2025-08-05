@@ -6,3 +6,4 @@ data_repo/
 *.tar*
 day3_grbs/20210116_subset/
 day3_grbs/bonus_exercise/
+*.pkl
